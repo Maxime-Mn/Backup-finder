@@ -3,7 +3,10 @@ A simple python program to find backup file on a web server.
 
 # Usage
 
-`./backupfinder.py <URL>`
+```bash
+chmod +x backupfinder.py
+/backupfinder.py <URL>
+```
 
 # Disclaimer
 
